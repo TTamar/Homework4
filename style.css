@@ -1,0 +1,40 @@
+.blue-background{
+	background-color:#0865DE ;
+	background-size: 1440px;
+	color:#FFFFFF ;
+}
+h1{
+	font-size: 30px;
+	line-height: 43px;
+	letter-spacing: 9px;
+	text-transform: uppercase;
+}
+h2{
+	font-size: 25px;
+	line-height: 30px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+a{
+	text-decoration: none;
+	color:#FFFFFF;
+	font-size: 12px;
+	line-height: 18px;
+	text-transform: uppercase;
+}
+li{
+	list-style-type: none;
+	color: #D1D1D1;
+	font-size: 14px;
+	line-height: 33.3px;
+}
+section{
+	background-color:#F7F7F7;
+}
+p{
+	color: #434343;
+	font-size: 25px;
+}
+div p{
+	color:#D1D1D1 ;
+}
